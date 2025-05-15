@@ -1379,4 +1379,3 @@ For state estimation
 For parameter estimation
 
 ![a](pictures/SR-UKF/sr-ukf-parameter-estimation.png)
-
